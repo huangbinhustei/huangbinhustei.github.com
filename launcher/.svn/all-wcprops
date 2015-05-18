@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/me2048/!svn/ver/51/2/launcher
+END
+game-min.js
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/me2048/!svn/ver/58/2/launcher/game-min.js
+END
+egret_loader.js
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/me2048/!svn/ver/43/2/launcher/egret_loader.js
+END
+egret_require.js
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/me2048/!svn/ver/43/2/launcher/egret_require.js
+END

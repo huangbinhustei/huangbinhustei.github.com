@@ -1,0 +1,21 @@
+{
+	"groups":[
+	{
+		"keys":"2048",
+		"name":"preload"
+	}
+    ],
+
+	"resources":[
+      {
+        "name":"2048",
+        "type":"sheet",
+        "url":"assets/2048.json"
+      },
+      {
+        "name":"titleBg",
+        "type":"image",
+        "url":"assets/2048.png"
+      }
+	]
+}
