@@ -2,9 +2,7 @@
 
 [2048](http://huangbinhustei.github.io/2048/index.html)
 
-[SAE](http://me2048.sinaapp.com)
-
-[![image](http://huangbinhustei.github.io/title.png)](http://img.baidu.com/img/iknow/wenku/miti/2048/index.html)
+[![image](http://huangbinhustei.github.io/title.png")](http://me2048.sinaapp.com)
 
 <script>
 var _hmt = _hmt || [];
