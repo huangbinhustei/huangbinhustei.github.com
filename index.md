@@ -1,6 +1,6 @@
 # huangbinhustei
 
-[2048](http://huangbinhustei.github.io/2048/index.html)
+[觅题](http://huangbinhustei.github.io/2048/index.html)
 
 [![image](http://huangbinhustei.github.io/title.png")](http://me2048.sinaapp.com)
 
