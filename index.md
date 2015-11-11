@@ -2,7 +2,7 @@
 
  + [觅题](http://huangbinhustei.github.io/2048/index.html)
 
-+ [![image](http://huangbinhustei.github.io/title.png")](http://me2048.sinaapp.com)
++ [![image](http://huangbinhustei.github.io/title.png)](http://me2048.sinaapp.com)
 
 + [啰哩啰嗦](http://huangbinhustei.github.io/words.html)
 
