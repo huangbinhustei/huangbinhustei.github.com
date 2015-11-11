@@ -4,6 +4,8 @@
 
 [![image](http://huangbinhustei.github.io/title.png")](http://me2048.sinaapp.com)
 
+[啰哩啰嗦](http://huangbinhustei.github.io/words.html)
+
 <script>
 var _hmt = _hmt || [];
 (function() {
@@ -13,5 +15,9 @@ var _hmt = _hmt || [];
   s.parentNode.insertBefore(hm, s);
 })();
 </script>
+
+
+
+
 
 
