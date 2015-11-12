@@ -1,6 +1,8 @@
 # huangbinhustei
 
- + [觅题](http://huangbinhustei.github.io/2048/index.html)
++ [git 地址](http://huangbinhustei.github.io/2048/index.html)
+
++ [sae 地址](http://me2048.sinaapp.com)
 
 + [![image](http://huangbinhustei.github.io/title.png)](http://me2048.sinaapp.com)
 
