@@ -8,6 +8,8 @@
 
 + [啰哩啰嗦](http://huangbinhustei.github.io/words.html)
 
++ [pre](http://huangbinhustei.github.io/pre.html)
+
 <script>
 var _hmt = _hmt || [];
 (function() {
