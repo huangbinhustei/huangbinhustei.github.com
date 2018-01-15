@@ -1,8 +1,7 @@
-# huangbinhustei
+# 2048 @ egret
 
 + [git 地址](http://huangbinhustei.github.io/2048/index.html)
 
-+ [啰哩啰嗦](http://huangbinhustei.github.io/words.html)
 
 
 <script>
